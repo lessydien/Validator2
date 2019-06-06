@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NFCvalidator</string>
+
+    <string name="bayar">Tap Kartu untuk pembayaran</string>
+    <string name="isiKartu">Isi saldo pada kartu</string>
+    <string name="infoApps">Informasi Aplikasi</string>
+    <string name="helpApps">Cara Penggunaan Aplikasi</string>
+</resources>
